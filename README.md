@@ -59,7 +59,7 @@ Discussed Concepts:
 * [Notebook](Day-1/Day1_14sep2020.ipynb)
 * [Notes.txt](Day-1/notes.txt)
 * [Employee.csv](Day-1/Employee.csv)
-* [Recorded Video](pending)
+* [Recorded Video pending]()
 
 
 
