@@ -45,3 +45,21 @@ Discussed Concepts:
 [[DayNo_Recorded_Video_Link]]()
 *************************
 --->
+
+Day1 Introduction to Machine Learning (13/Sep/2020)
+
+Discussed Concepts:
+1. What is machine Learning
+2. Types of ML
+3. Applications
+4. Algorithms  
+
+[[ML pdf ]](Day-1/MachineLearningwithPython.pdf)
+[[Anaconda installation pdf]](Day-1/AnacondaInstallation.pdf)
+[[Notebook]](Day-1/Day1_14sep2020.ipynb)
+[[Notes.txt]](Day-1/notes.txt)
+[[Employee.csv](Day-1/Employee.csv)
+[[Recorded Video]](pending)
+
+
+

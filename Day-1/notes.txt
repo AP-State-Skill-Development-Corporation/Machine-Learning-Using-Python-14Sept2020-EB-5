@@ -1,0 +1,112 @@
+target
+--------
+apple    0
+orange  1
+lemon   2
+
+
+
+
+
+we want to predict the Revenue of Reliance indutries with jio subscribers
+
+Input/features ----->Jio Subscribers
+output/Target -----> Revenue 
+
+
+
+
+
+Clustering of custemers in bank
+
+
+
+Get Data
+   1. Official websites
+   2.  by different websites/google
+   3. Coducting Polls to get data
+   4. by using google forms 
+   5. creating data with formula
+
+
+
+Pre-processing
+------------------
+1. to check is there any missing values
+2. to check is there any invalid value ( fever 1000 degress   / salary 5L     5C  )
+
+valid values in fever columns   ram,lakshman
+
+
+
+Domain knowledge
+
+
+
+
+Train the Model
+	a. identify the algorithm  
+                 a. train the model  with data
+
+
+
+Test the Model
+	give only input,it can give output   (apple)
+	we can compare given output(predicted value)   actual value (apple)
+         
+                mango  but actual apple
+
+
+
+score   =  correct values/total question   1/2 * 100 = 50%
+
+
+width , height, color, weight
+
+
+
+Imporving the model
+	1. by giving more examples
+	2. combining different features
+                 3 . parameter tuning
+
+
+Identifying algorithm
+	1. if target is discrete values
+		we can use classification related algorithms
+	2. if continues values
+		regression related algorithm
+	3. clustering 
+
+
+
+
+
+
+
+
+
+
+
+Anaconda software ---> Jupyter notebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
