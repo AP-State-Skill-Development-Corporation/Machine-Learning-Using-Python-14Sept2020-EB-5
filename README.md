@@ -50,7 +50,7 @@ Discussed Concepts:
 *************************
 --->
 
-### Day1 Introduction to Machine Learning (13/Sep/2020)
+### Day1 Introduction to Machine Learning (14/Sep/2020)
 
 Discussed Concepts:
 1. What is machine Learning
@@ -66,4 +66,15 @@ Discussed Concepts:
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/a34ad663070d81aa50fd61d7303fa65fcbd7622c90d034aab45a72953ef651d4)
 
 
+### Day2 Prediction of RIL revenue by Linear Regression (15/sep/2020)
+
+Discussed Concepts
+1. Linear Regression for
+* Prediction of Salary
+* Prediction Reliance Industry revenue with Jio subscribers
+
+* [Notebook](Day-2/Day2_15sep2020.ipynb)
+* [Salary_Data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
+* [Reliance.csv](Day-2/Reliance.csv)
+* [Recorded Video pending]()
 
