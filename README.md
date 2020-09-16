@@ -87,10 +87,7 @@ Discussed Concepts
 
 * [Notebook](Day-3/Day3_16sep2020.ipynb)
 * [Recorded Video pending]()
-
-![Line plot](Day-3/6_1_line.png)
-
-![plot](Day-3/6_2_linePoly.png)
-
-![plot](Day-3/mlconcepts_image5.png)
+* [image1](Day-3/6_1_line.png)
+* [image2](Day-3/6_2_linePoly.png)
+* [image3](Day-3/mlconcepts_image5.png)
 
