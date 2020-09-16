@@ -79,7 +79,7 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/db84e5ea4ae90ba8efeb8fc66fe91743489eb4994282678e3c26db67da65fb89)
 
 
-### Day3 Multi Linear Regression and Polynomial Features (15/sep/2020)
+### Day3 Multi Linear Regression and Polynomial Features (16/sep/2020)
 
 Discussed Concepts
 1. Multi Linear Regression for house price prediction of boston dataset
