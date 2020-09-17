@@ -26,7 +26,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/19B-zD90epi24CzUghvFYc3MG1hWlM-Fa_utFBrNjG5s/edit?usp=sharing)
 
-#### Your details printed on Certificates verify once (removed on 17sep2020)
+#### Your details printed on Certificates verify once before 18sep2020 → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
 
 <!-----
 #### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
@@ -98,4 +98,4 @@ Discussed Concepts
 1. K-Nearest Neighbour Algorithm for iris dataset
 
 * [Notebook](Day-4/Day4_17sep2020.ipynb)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/3e0a3baf469aa4778238ed8969976652d4aba49ebcf821d9fe48288a67035a23)
