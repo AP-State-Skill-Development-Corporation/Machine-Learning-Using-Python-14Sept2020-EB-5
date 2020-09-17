@@ -91,3 +91,10 @@ Discussed Concepts
 * [image2](Day-3/6_2_linePoly.png)
 * [image3](Day-3/mlconcepts_image5.png)
 
+### Day4 KNN algorithm (17/sep/2020)
+
+Discussed Concepts
+1. K-Nearest Neighbour Algorithm for iris dataset
+
+* [Notebook](Day-4/Day4_17sep2020.ipynb)
+* [Recorded Video pending]()
