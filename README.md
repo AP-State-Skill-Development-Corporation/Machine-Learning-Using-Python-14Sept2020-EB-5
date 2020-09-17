@@ -26,7 +26,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/19B-zD90epi24CzUghvFYc3MG1hWlM-Fa_utFBrNjG5s/edit?usp=sharing)
 
-
+#### Your details printed on Certificates verify once (removed on 17sep2020)
 
 <!-----
 #### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
