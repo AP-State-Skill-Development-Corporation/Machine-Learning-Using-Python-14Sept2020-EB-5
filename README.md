@@ -99,3 +99,12 @@ Discussed Concepts
 
 * [Notebook](Day-4/Day4_17sep2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/3e0a3baf469aa4778238ed8969976652d4aba49ebcf821d9fe48288a67035a23)
+
+### Day5 KNN algorithm (18/sep/2020)
+
+Discussed Concepts
+1. Logistic Regression Algorithm
+2. Support Vector Machine
+
+* [Notebook](Day-5/Day5_18sep2020.ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/effa598a15abc99514da25e633b6b7797e3e250d335ec6ff23f085e73d3d7896)
