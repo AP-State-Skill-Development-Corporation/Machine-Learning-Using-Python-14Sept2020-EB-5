@@ -115,6 +115,6 @@ Discussed Concepts
 Discussed Concepts
 1. Decision Tree classifier and Regressor Algorithm
 
-* [Notebook](Day-6/Day6_21sep2020.ipynb)
+* [Notebook pending](Day-6/Day6_21sep2020.ipynb)
 * [headbrain.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/headbrain.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/3845c01439bceda4dfc46bc8a401f197d32b7d902dbdfb8e301a161b187ff293)
