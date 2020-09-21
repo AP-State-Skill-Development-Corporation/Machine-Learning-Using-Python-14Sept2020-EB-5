@@ -110,7 +110,7 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/effa598a15abc99514da25e633b6b7797e3e250d335ec6ff23f085e73d3d7896)
 
 
-### Day5 Decision Tree Algorithms (21/sep/2020)
+### Day6 Decision Tree Algorithms (21/sep/2020)
 
 Discussed Concepts
 1. Decision Tree classifier and Regressor Algorithm
