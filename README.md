@@ -26,7 +26,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/19B-zD90epi24CzUghvFYc3MG1hWlM-Fa_utFBrNjG5s/edit?usp=sharing)
 
-#### Your details printed on Certificates verify once before 18sep2020 → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
+#### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
 
 <!-----
 #### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1KhUGwyc6ezrZ1hswLzTu67EVwohwW07omVNAtEWyk9M/edit?usp=sharing)
@@ -108,3 +108,12 @@ Discussed Concepts
 
 * [Notebook](Day-5/Day5_18sep2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/effa598a15abc99514da25e633b6b7797e3e250d335ec6ff23f085e73d3d7896)
+
+
+### Day5 Decision Tree Algorithms (21/sep/2020)
+
+Discussed Concepts
+1. Decision Tree classifier and Regressor Algorithm
+
+* [Notebook](Day-6/Day6_21sep2020.ipynb)
+* [Recorded Video pending]()
