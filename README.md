@@ -120,7 +120,6 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/3845c01439bceda4dfc46bc8a401f197d32b7d902dbdfb8e301a161b187ff293)
 
 
-
 ### Day7 Random Forest Algorithms (22/sep/2020)
 
 Discussed Concepts
@@ -128,3 +127,13 @@ Discussed Concepts
 
 * [Notebook](Day-7/Day7_22sep2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/f2b384ca6d038d150596828bb75eb0414dad29fe75b9d3d9f7c6e56c1d7e6d7e)
+
+
+
+### Day8 Unsupervised Learning (23/sep/2020)
+
+Discussed Concepts
+1. K-Means Algorithm
+
+* [Notebook](Day-8/Day8_23sep2020.ipynb)
+* [Recorded Video pending]()
