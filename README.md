@@ -151,4 +151,4 @@ Discussed Concepts
 * [Notebook2](Day-9/Day9_24sep2020Notebook2.ipynb)
 * [fruitModel.pkl](Day-9/fruitModel.pkl)
 * [Fruits_dataset](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Classification/fruit_data_with_colours.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/eaf178502f10ee01ab2668f921d357f8f7abbfd971ede53ce6d3d4c499b679a1)
